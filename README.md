@@ -1,7 +1,7 @@
 # App de Metas
 Este é um aplicativo de metas simples que permite ao usuário cadastrar, listar, marcar como concluídas e deletar metas, além de visualizar metas realizadas e abertas.
 
-Funcionalidades
+## Funcionalidades
 - Cadastrar novas metas
 - Listar metas existentes
 - Marcar metas como concluídas
@@ -9,7 +9,7 @@ Funcionalidades
 - Visualizar metas que ainda estão abertas
 - Deletar metas
 
-Instalação
+## Instalação
 1. Clone este repositório:
    ```bash
    git clone https://github.com/devkapassos/app-de-metas.git
@@ -18,12 +18,12 @@ cd app-de-metas
 3. Instale as dependências:
 npm install
 
-Como usar
+## Como usar
 1. Execute o aplicativo:
 node app.js
 2. O menu interativo irá aparecer, permitindo que você navegue pelas opções.
 
-Tecnologias usadas
+## Tecnologias usadas
 - Node.js
 - Inquirer.js (para prompts interativos)
 - File System (para salvar e carregar metas)
